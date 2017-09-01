@@ -1,33 +1,46 @@
-# Awesome Go Twitter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Go Twitter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> A curated list of &lt;insert awesome stuff&gt;
+
+> A curated list of awesome Go Twitter accounts worth following, inspired by [Awesome iOS Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter). This list is ~~permanent~~ and should be evolved 📈 from time to time. That's why it needs **you**, yes **YOU**! 🔥 If you're called to do so, check out the [Contribute](#contribute) section.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [People](#people)
+- [News](#news)
+- [Show](#show)
+- [Conference](#conference)
+- [Contribute](#contribute)
+- [License](#license)
 
 
-## Section
+## People
 
-About this section. Optional. Keep this short and focus on the list.
+- [@rob_pike](https://twitter.com/rob_pike) - Go creator.
+- [@_rsc](https://twitter.com/_rsc) - Go core team.
+- [@bradfitz](https://twitter.com/bradfitz) - Go core team.
+- [@francesc](https://twitter.com/francesc) - [@justforfunc](https://twitter.com/justforfunc) YouTube channel creator.
+- [@davecheney](https://twitter.com/davecheney) - Maintainer of Gorilla web toolkit.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+
+## News
+
+- [@golangweekly](https://twitter.com/golangweekly) - Daily Go news and links.
 
 
-## Another Section
+## Show
 
-### Subsection
+- [@justforfunc](https://twitter.com/justforfunc) - YouTube show about programming in Go, created by [@francesc](https://twitter.com/francesc)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+
+## Conference
+
+- [@GopherCon](https://twitter.com/GopherCon) - The largest Go conference in the world.
 
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [Contribution Guidelines](contributing.md) first.
 
 
 ## License
