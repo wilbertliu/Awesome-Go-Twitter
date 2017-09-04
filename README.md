@@ -42,7 +42,7 @@ A curated list of awesome Go Twitter accounts worth following, inspired by [Awes
 
 ## Contribute
 
-Contributions welcome! Read the [Contribution Guidelines](contributing.md) first.
+Contributions welcome! Read the [Contribution Guidelines](CONTRIBUTING.md) first.
 
 
 ## License
