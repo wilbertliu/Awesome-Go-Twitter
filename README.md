@@ -29,6 +29,7 @@ A curated list of awesome Go Twitter accounts worth following, inspired by [Awes
 
 - [@golangweekly](https://twitter.com/golangweekly) - Daily Go news and links.
 - [@golangnews](https://twitter.com/golangnews) - News for Go hackers.
+- [@CuratedGo](https://twitter.com/CuratedGo) - Curated timeline of awesome golang articles and videos.
 
 
 ## Show
