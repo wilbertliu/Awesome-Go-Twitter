@@ -22,6 +22,7 @@ A curated list of awesome Go Twitter accounts worth following, inspired by [Awes
 - [@francesc](https://twitter.com/francesc) - [@justforfunc](https://twitter.com/justforfunc) YouTube channel creator.
 - [@davecheney](https://twitter.com/davecheney) - Maintainer of Gorilla web toolkit.
 - [@ashleymcnamara](https://twitter.com/ashleymcnamara) - A Gopher who draws Gophers.
+- [@cassandraoid](https://twitter.com/cassandraoid) - GolangBridge core team.
 
 
 ## News
