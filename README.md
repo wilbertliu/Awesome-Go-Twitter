@@ -23,6 +23,7 @@ A curated list of awesome Go Twitter accounts worth following, inspired by [Awes
 - [@davecheney](https://twitter.com/davecheney) - Maintainer of Gorilla web toolkit.
 - [@ashleymcnamara](https://twitter.com/ashleymcnamara) - A Gopher who draws Gophers.
 - [@cassandraoid](https://twitter.com/cassandraoid) - GolangBridge core team.
+- [@spf13](https://twitter.com/spf13) - Go core team; Hugo creator.
 
 
 ## News
