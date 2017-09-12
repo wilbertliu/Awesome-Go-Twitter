@@ -44,6 +44,7 @@ A curated list of awesome Go Twitter accounts worth following, inspired by [Awes
 ## Conference
 
 - [@GopherCon](https://twitter.com/GopherCon) - The largest Go conference in the world.
+- [@GolangUKconf](https://twitter.com/GolangUKconf) - Go conference in UK.
 
 
 ## Contribute
